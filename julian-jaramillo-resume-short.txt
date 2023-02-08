@@ -2,11 +2,11 @@
 ________________
 
 
-An experienced software engineer with a passion for problem-solving using technology.
-Looking for a new software engineering role in Portland, OR, or a remote-friendly company with an impactful mission.
-Has a wide range of experience, including co-founding an internet startup, building and maintaining CMSs for Yahoo, working on large-scale digital media asset systems, fintech, and fighting online child abuse.
-Tech lead skilled in PHP, JavaScript, Node.js, AWS services, SQL, NoSQL, Web Development, and APIs.
-Open and willing to learn new technologies.
+* An experienced software engineer passionate about problem-solving using technology.
+* Looking for a new software engineering role in Portland, OR, or a remote-friendly company with an impactful mission.
+* Has a wide range of experience, including co-founding an internet startup, building and maintaining CMSs for Yahoo, working on large-scale digital media asset systems, fintech, and fighting online child abuse.
+* Tech Lead skilled in PHP, JavaScript, Node.js, AWS services, SQL, NoSQL, Web Development, and APIs.
+* Open and willing to learn new technologies.
 Work Experience
 ________________
 
@@ -14,7 +14,7 @@ ________________
 Senior Software Engineer
 Flickr/SmugMug, Remote from Oregon – (Feb 2019 - July 2021)
 As the Lead Engineer, spearheaded the development of a system to detect, moderate, report, and archive child abuse-related media (CSAM) for Flickr.com. Utilized Safer.io's services by integrating them into our upload flow through containers, SQS, and AWS Lambda. Improved the legacy moderation system, a PHP application with MySQL, to effectively moderate the new content. Directly utilized NECMEC's APIs for reporting and replaced them with a Safer.io module when it became available. For archiving, reused technology from Flickr, utilizing an AWS S3 secure bucket.
-Showcased the ability to work with sensitive and crucial topics, to handle complex and difficult projects with a high level of responsibility and attention to detail, and of handling effective communication with third party providers and new coworkers from different areas.
+Showcased the ability to work with sensitive and crucial topics, handle complex and difficult projects with a high level of responsibility and attention to detail, and effectively communicate with third-party providers and new coworkers from different areas.
 SmugMug, Mountain View, CA and Remote – (Feb 2011 - Jun 2022)
 As a Lead Full Stack Engineer: developed a microservice for video content rendering using AWS transcoding technology, contributed to the design of a modern digital asset architecture, enabled buying and selling, as well as pricing in foreign currencies. Integrated Intercom’s REST API and Amazon payments web services for e-commerce. Led the technical modernization of the tax system, executed several price increases on renewals and subscriptions, and completed a half-implemented Media Picker.
 Capable of working with both legacy and modern codebases and successfully migrating operations from private data centers to the cloud. Understands the importance of aligning technology with business goals and needs and goes beyond simply writing code.
@@ -36,9 +36,9 @@ Senior Internet Programmer
 Mindshare Design, San Jose, CA – (Nov 1999 - Nov 2000)
 * Lead Engineer on the PostMaster General development and support team.
 * System administrator for the Hosting Services Department.
-* Web developer on: Philips Semiconductors intranet application, the Recycling and Composting Program of the County of San Mateo, and the FORTEL internet application.
+* Web developer on Philips Semiconductors intranet application, the Recycling and Composting Program of the County of San Mateo, and the FORTEL internet application.
 Skills
-Web Development, Programming, Debugging, Software Development, Cascading Style Sheets (CSS), HTML, SQL, Engineering, Large Scale Systems, Software Architecture, Perl, MySQL, Web Applications, OOP, Apache.
+Web Development, Programming, Debugging, Software Development, Cascading Style Sheets (CSS), HTML, SQL, Engineering, Large Scale Systems, Software Architecture, Perl, MySQL, Web Applications, OOP, and Apache.
 Co-Founder Engineer
 Imagine SAS, Bogotá, Colombia – (Jan 1996 - Nov 1999)
 Co-Founder of one of the first Internet companies in Colombia (imagine.com.co).

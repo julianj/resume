@@ -1,60 +1,46 @@
-﻿Julian Jaramillo
-________________
 
+Julian Jaramillo
+Email: julianj@gmail.com   -   Phone: 1 (408) 564 - 2445   -   linkedin.com/in/JaramilloJulian
 
-* An experienced software engineer passionate about problem-solving using technology.
-* Looking for a new software engineering role in Portland, OR, or a remote-friendly company with an impactful mission.
-* Has a wide range of experience, including co-founding an internet startup, building and maintaining CMSs for Yahoo, working on large-scale digital media asset systems, fintech, and fighting online child abuse.
-* Tech Lead skilled in PHP, JavaScript, Node.js, AWS services, SQL, NoSQL, Web Development, and APIs.
-* Open and willing to learn new technologies.
-Work Experience
-________________
+PROFILE
+A backend and full stack developer engineer passionate about problem-solving using technology. Has a wide range of experience, including co-founding an internet startup, building and maintaining CMSs for Yahoo, working on large-scale digital media asset systems, fintech, and fighting online child abuse.
+Looking for a new software engineering role in Portland, OR, or a remote-friendly company with an impactful mission. Open and willing to learn new technologies.
+skills
+Project Management, Agile Methodologies, Large Scale and Distributed Systems, Object Oriented Programming, PHP, JavaScript, Node.js, PERL, MySQL, SQL, Web Development, Software Architecture and Development, Digital Asset Management, Microservices, APIs, Debugging, Git, REST APIs, Internationalization (I18n), Localization (l10n), Electronic Payments, FinTech, Billing Systems, Amazon Web Services (AWS), Trust and Safety, CSAM, Linux, Secure Authentication, CSS, HTML, XML, shell scripting automation, Distributed Caches, CMS, Entrepreneurship.
 
+LANGUAGES
+Native Spanish Speaker and Proficient in English.
 
-Senior Software Engineer
-Flickr/SmugMug, Remote from Oregon – (Feb 2019 - July 2021)
-As the Lead Engineer, spearheaded the development of a system to detect, moderate, report, and archive child abuse-related media (CSAM) for Flickr.com. Utilized Safer.io's services by integrating them into our upload flow through containers, SQS, and AWS Lambda. Improved the legacy moderation system, a PHP application with MySQL, to effectively moderate the new content. Directly utilized NECMEC's APIs for reporting and replaced them with a Safer.io module when it became available. For archiving, reused technology from Flickr, utilizing an AWS S3 secure bucket.
-Showcased the ability to work with sensitive and crucial topics, handle complex and difficult projects with a high level of responsibility and attention to detail, and effectively communicate with third-party providers and new coworkers from different areas.
-SmugMug, Mountain View, CA and Remote – (Feb 2011 - Jun 2022)
-As a Lead Full Stack Engineer: developed a microservice for video content rendering using AWS transcoding technology, contributed to the design of a modern digital asset architecture, enabled buying and selling, as well as pricing in foreign currencies. Integrated Intercom’s REST API and Amazon payments web services for e-commerce. Led the technical modernization of the tax system, executed several price increases on renewals and subscriptions, and completed a half-implemented Media Picker.
+EDUCATION
+Bachelor's Degree in Systems Engineering with a Major in Software            1985 - 1992 
+Universidad Autonoma de Manizales - Colombia
+
+EXPERIENCE
+* Senior Software Engineer 
+** SmugMug, Mountain View, CA and Remote                             Feb 2011 - Jun 2022
+Lead Full Stack Engineer, developed a microservice for video content rendering using AWS transcoding technology, contributed to the design of a modern digital asset architecture, enabled buying and selling, as well as pricing in foreign currencies. Integrated Intercom’s REST API and Amazon payments web services for e-commerce. Led the technical modernization of the tax system, executed several price increases on renewals and subscriptions, and completed a half-implemented Media Picker.
 Capable of working with both legacy and modern codebases and successfully migrating operations from private data centers to the cloud. Understands the importance of aligning technology with business goals and needs and goes beyond simply writing code.
-Skills
-Project Management, Agile Methodologies, PHP, JavaScript, Node.js, MySQL, SQL, Web Development, Software Development, Debugging, Git, REST APIs, Engineering, Internationalization, I18n, Localization, l10n, Large Scale Systems, Distributed Systems, Currency, Electronic Payments, FinTech, Billing Systems, Digital Asset Management, Microservices, Software Architecture, Amazon Web Services (AWS), Trust and Safety, CSAM, Linux, OOP, Apache, Secure Authentication, Cascading Style Sheets (CSS), HTML.
-Senior Software Engineer
-Yahoo! Localization Platform, Sunnyvale, CA – (Jun 2009 - Dec 2010)
+
+** Flickr/SmugMug, Remote from Oregon                                Feb 2019 - July 2021
+Lead Engineer, spearheaded the development of a system to detect, moderate, report, and archive child abuse-related media (CSAM) for Flickr.com. Utilized Safer.io's services by integrating them into our upload flow through containers, SQS, and AWS Lambda. Improved the legacy moderation system, a PHP application with MySQL, to effectively moderate the new content. Directly utilized NECMEC's APIs for reporting and replaced them with a Safer.io module when it became available. For archiving, reused technology from Flickr, utilizing an AWS S3 secure bucket.
+
+* Senior Software Engineer 
+** Yahoo! Localization Platform, Sunnyvale, CA                       Jun 2009 - Dec 2010
 Scrum Master and tech lead on the Yahoo Localization (L10N) platform team building and maintaining a scalable and highly available application using Java, PHP, Perl, DHTML, and Oracle in a web-service-oriented architecture. Platform used by ALL of Yahoo! Global products.
-Skills: PHP, Perl, Project Management, Localization (l10n), Internationalization (i18n), Web-Service-Oriented Architecture, and Shell Scripting Automation.
-Yahoo! International Tiger Team, Sunnyvale, CA – (Aug 2005 - May 2009)
-As a founding member of Yahoo's International Tiger Team, actively facilitated the internationalization and localization of multiple products. The team's primary objective was to actively support other teams in making their products globally accessible and relevant.
-As a Lead Engineer, played a key role in the globalization of multiple verticals, including Yahoo! Buzz, Yahoo! Maps, the next-generation web search "Glue," Yahoo News Search, a customized version of Internet Explorer 7, Yahoo! 360, and a Firefox plug-in to drag and drop files into Yahoo Photos.
-Skills: PHP, Perl, JavaScript, MySQL, Memcached, Yahoo! CoreID Web Service, Y.U.I. Libraries, and Firefox Plugin Development.
-Yahoo! Inc. Yahoo! Latin America, Coral Gables, FL – (Dec 2000 - Jul 2005)
-Redesigned various Yahoo! Latin American media verticals (news, sports, entertainment, etc..)
-Worked with the marketing and product teams on promo sites, floating ads, state-of-the-art home page takeovers, and content integration deals.
-Skills: PERL, XML, CMS, MySQL, JavaScript, and shell scripting automation.
-Senior Internet Programmer
-Mindshare Design, San Jose, CA – (Nov 1999 - Nov 2000)
-* Lead Engineer on the PostMaster General development and support team.
-* System administrator for the Hosting Services Department.
-* Web developer on Philips Semiconductors intranet application, the Recycling and Composting Program of the County of San Mateo, and the FORTEL internet application.
-Skills
-Web Development, Programming, Debugging, Software Development, Cascading Style Sheets (CSS), HTML, SQL, Engineering, Large Scale Systems, Software Architecture, Perl, MySQL, Web Applications, OOP, and Apache.
-Co-Founder Engineer
-Imagine SAS, Bogotá, Colombia – (Jan 1996 - Nov 1999)
+
+** Yahoo! International Tiger Team, Sunnyvale, CA                    Aug 2005 - May 2009
+Funding member of Yahoo's International Tiger Team, actively facilitated the internationalization and localization of multiple products. The team's primary objective was to actively support other teams in making their products globally accessible and relevant.
+Lead Engineer, played a key role in the globalization of multiple verticals, including Yahoo! Buzz, Yahoo! Maps, the next-generation web search "Glue," Yahoo News Search, a customized version of Internet Explorer 7, Yahoo! 360, and a Firefox plug-in to drag and drop files into Yahoo Photos.
+
+** Yahoo! Latin America, Coral Gables, FL                            Dec 2000 - Jul 2005
+Redesigned various Yahoo! Latin American media verticals (news, sports, entertainment, etc.)Worked with the marketing and product teams on promo sites, floating ads, state-of-the-art home page takeovers, and content integration deals.
+
+*Senior Internet Programmer
+** Mindshare Design, San Jose, CA                                    Nov 1999 - Nov 2000
+- Lead Engineer on the PostMaster General development and support team.
+- System administrator for the Hosting Services Department.
+- Web developer on Philips Semiconductors intranet application, the Recycling and Composting Program of the County of San Mateo, and the FORTEL internet application.
+
+* Co-Founder Engineer
+** Imagine SAS, Bogotá, Colombia                                     Jan 1996 - Nov 1999
 Co-Founder of one of the first Internet companies in Colombia (imagine.com.co).
-Skills
-Web Development · Programming, Debugging, Software Development, Cascading Style Sheets (CSS), HTML, SQL, Entrepreneurship, Engineering, Technology Start-up, Software Architecture, Perl, Pascal, Web Applications, OOP, Apache.
-Education
-________________
-
-
-Bachelor's Degree in Systems Engineering with a Major in Software
-1985 - 1992 - Universidad Autonoma de Manizales - Colombia
-Languages
-________________
-
-
-Native Spanish Speaker and Proficient in English
-
-
-Email:  julianj@gmail.com - Phone: 1 (408) 564 - 2445 - Linkedin:  linkedin.com/in/JaramilloJulian

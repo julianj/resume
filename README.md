@@ -1,9 +1,9 @@
 # My resume
-- Original version in [GDocs](https://docs.google.com/document/d/1sGKGuLi4IiBf9OjoTmv0tUg_pmMRQJW7cGl4jBz0beE/edit#heading=h.lv0sym5mth9e) 
+- Original version local in [Pages](file:///Users/julian/cacharreo/resume/julian-jaramillo-resume-short.pages) 
 - Short versions exported from Original:
    - [PDF](https://julianj.github.io/resume/julian-jaramillo-resume-short.pdf)
    - [DOCX](https://julianj.github.io/resume/julian-jaramillo-resume-short.docx)
    - [TXT](https://julianj.github.io/resume/julian-jaramillo-resume-short.txt)
-- Long Version in [PDF](https://julianj.github.io/resume/jj-resume-long.pdf) from previous iteration: 
+- Long Version in [PDF](https://julianj.github.io/resume/julian-jaramillo-resume-long.pdf) from previous iteration: 
 
 

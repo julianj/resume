@@ -3,7 +3,7 @@ Julian Jaramillo
 Email: julianj@gmail.com   -   Phone: 1 (408) 564 - 2445   -   linkedin.com/in/JaramilloJulian
 
 PROFILE
-A backend and full stack developer engineer passionate about problem-solving using technology. Has a wide range of experience, including co-founding an internet startup, building and maintaining CMSs for Yahoo, working on large-scale digital media asset systems, fintech, and fighting online child abuse.
+Honest, adaptable, and empathetic backend and full stack software engineer passionate about problem-solving using technology. Has a wide range of experience, including co-founding an internet startup, building and maintaining CMSs for Yahoo, working on large-scale digital media asset systems, fintech, and fighting online child abuse.
 Looking for a new software engineering role in Portland, OR, or a remote-friendly company with an impactful mission. Open and willing to learn new technologies.
 skills
 Project Management, Agile Methodologies, Large Scale and Distributed Systems, Object Oriented Programming, PHP, JavaScript, Node.js, PERL, MySQL, SQL, Web Development, Software Architecture and Development, Digital Asset Management, Microservices, APIs, Debugging, Git, REST APIs, Internationalization (I18n), Localization (l10n), Electronic Payments, FinTech, Billing Systems, Amazon Web Services (AWS), Trust and Safety, CSAM, Linux, Secure Authentication, CSS, HTML, XML, shell scripting automation, Distributed Caches, CMS, Entrepreneurship.

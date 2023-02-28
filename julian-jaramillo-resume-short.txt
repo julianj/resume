@@ -29,7 +29,7 @@ Lead Engineer, spearheaded the development of a system to detect, moderate, repo
 Scrum Master and tech lead on the Yahoo Localization (L10N) platform team building and maintaining a scalable and highly available application using Java, PHP, Perl, DHTML, and Oracle in a web-service-oriented architecture. Platform used by ALL of Yahoo! Global products.
 
 ** Yahoo! International Tiger Team, Sunnyvale, CA                    Aug 2005 - May 2009
-Funding member of Yahoo's International Tiger Team, actively facilitated the internationalization and localization of multiple products. The team's primary objective was to actively support other teams in making their products globally accessible and relevant.
+Founding member of Yahoo's International Tiger Team, actively facilitated the internationalization and localization of multiple products. The team's primary objective was to actively support other teams in making their products globally accessible and relevant.
 Lead Engineer, played a key role in the globalization of multiple verticals, including Yahoo! Buzz, Yahoo! Maps, the next-generation web search "Glue," Yahoo News Search, a customized version of Internet Explorer 7, Yahoo! 360, and a Firefox plug-in to drag and drop files into Yahoo Photos.
 
 ** Yahoo! Latin America, Coral Gables, FL                            Dec 2000 - Jul 2005

@@ -10,18 +10,23 @@ Senior software engineer with 20+ years of experience designing, developing, and
 
 ## **Skills**
 
-**Languages & Frameworks**: PHP, JavaScript, Node.js, Vue, HTML, CSS, XML, JSON, Perl, Pascal  
-**Databases**: PostgreSQL, MySQL, NoSQL  
-**Cloud & DevOps**: AWS (EC2, RDS, Lambda, S3, SQS), Git, CI/CD, Shell Scripting  
-**Development Tools & AI Assistants**: Copilot, Aider, LLMs (AI-assisted development), Git, Memcached, YUI  
-**Technologies & Platforms**: REST APIs, CMS, SharePoint API, Intercom API, Safer.io, Resque  
-**Architecture & Practices**: OOP, Agile/Scrum, Localization (l10n), Internationalization (i18n), Software Architecture  
-**Specialized Experience**: Content Moderation, E-commerce, Browser Extension Development  
-**Languages**: Spanish (Fluent), English (Fluent)
+* **Languages & Frameworks**: PHP, JavaScript, Node.js, Vue, HTML, CSS, XML, JSON, Perl, Pascal, YUI
+
+* **Databases**: PostgreSQL, MySQL, NoSQL
+
+* **Cloud & DevOps**: AWS (EC2, RDS, Lambda, S3, SQS), Git, CI/CD, Shell Scripting
+
+* **Development Tools & AI Assistants**: Copilot, Aider, LLMs (AI-assisted development), Git, PhpStorm, PHPUnit
+
+* **Technologies & Platforms**: REST APIs, CMS, SharePoint API, Intercom API, Safer.io, Resque, Memcached, Xdebug
+
+* **Architecture & Practices**: OOP, Agile/Scrum, Localization (l10n), Internationalization (i18n), Software Architecture
+
+* **Specialized Experience**: Content Moderation, E-commerce, Browser Extension Development
+
+* **Languages**: Spanish (Fluent), English (Fluent)
 
 ---
-
-## 
 
 ## **Professional Experience**
 
@@ -56,6 +61,8 @@ Senior software engineer with 20+ years of experience designing, developing, and
 * **Flickr (2019–2021):** Led development of a CSAM detection and moderation system. Integrated Safer.io into upload pipelines using SQS and AWS Lambda. Streamlined reporting via NCMEC APIs and secure archiving to S3.
 
 * **SmugMug (2011–2019):** Built video rendering microservice with AWS Transcoder. Modernized tax systems and enabled global pricing with support for multiple foreign currencies. Integrated Intercom and Amazon Payments APIs. Migrated systems to cloud from private data centers.
+
+### 
 
 ### **Senior Software Engineer**
 

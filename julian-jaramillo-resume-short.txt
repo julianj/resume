@@ -29,7 +29,7 @@ ________________
 
 Professional Experience
 Senior Software Engineer
-Network Ninja – Lake Oswego, OR
+Network Ninja (legalserver.org) – Lake Oswego, OR
  Jul 2023 – Present
    * Architected scalable PHP applications using modern OOP principles.
 
@@ -67,7 +67,7 @@ Yahoo! Inc. – Sunnyvale, CA
          * Yahoo! Latin America (2000–2005): Rebuilt media verticals and supported marketing campaigns using PERL, CMS, MySQL, and JS.
 
 Senior Internet Programmer
-Mindsare Design – San Jose, CA
+Mindshare Design – San Jose, CA
  Nov 1999 – Nov 2000
             * Led development for PostMaster General product.
 

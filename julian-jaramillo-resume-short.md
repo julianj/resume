@@ -32,7 +32,7 @@ Senior software engineer with 20+ years of experience designing, developing, and
 
 ### **Senior Software Engineer**
 
-*Network Ninja – Lake Oswego, OR*  
+*Network Ninja (legalserver.org) – Lake Oswego, OR*  
  **Jul 2023 – Present**
 
 * Architected scalable PHP applications using modern OOP principles.
@@ -77,7 +77,7 @@ Senior software engineer with 20+ years of experience designing, developing, and
 
 ### **Senior Internet Programmer**
 
-*Mindsare Design – San Jose, CA*  
+*Mindshare Design – San Jose, CA*  
  **Nov 1999 – Nov 2000**
 
 * Led development for PostMaster General product.

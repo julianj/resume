@@ -1,0 +1,251 @@
+Julian Jaramillo 
+
+Portland, OR 97035 
+
+julianj@gmail.com 
+
+\+1 408 564 2445 
+
+Professional Summary 
+
+Senior software engineer with 20+ years of experience designing, developing, and maintaining scalable web applications and systems. 
+
+Values honesty in professional relationships while demonstrating adaptability in our fast-changing tech landscape. 
+
+Proven track record across industries including digital media, fintech, and mission-driven technology. Open to a wide range of challenges, with a particular appreciation for companies pursuing an impactful mission. 
+
+Adept in PHP, Laravel, JavaScript, Node.js, AWS, and SQL. Skilled at leading teams, modernizing legacy code, and driving initiatives from idea to deployment. Passionate about clean code, automation, and solving challenging problems with impact. 
+
+Willing to relocate: Anywhere 
+
+Authorized to work in the US for any employer 
+
+Work Experience 
+
+**Senior Software Engineer** 
+
+Network Ninja\-Lake Oswego, OR 
+
+July 2023 to Present 
+
+• Architected and developed scalable, maintainable PHP applications using modern OOP principles, contributing directly to core platform features and enhancements. 
+
+• Led and executed multi-week initiatives by breaking them down into achievable milestones and deliverables, ensuring consistent progress and alignment with product goals. 
+
+• Integrated third-party APIs and services to extend application capabilities and streamline data exchange. 
+
+• Collaborated with cross-functional, remote teams to design and deliver high-impact features in a fast paced, agile environment. 
+
+• Wrote clean, well-tested PHP code following best practices, with emphasis on performance, maintainability, and clear documentation. 
+
+• Maintained and refactored legacy codebases to reduce technical debt while preserving stability across production systems. 
+
+• Worked extensively with PostgreSQL, designing efficient schemas, optimizing queries, and supporting transactional workflows. 
+
+• Contributed to full application lifecycles across development, staging, and production environments, using Git and CI/CD pipelines. 
+
+• Applied solid working knowledge of HTML, CSS, JavaScript, and AWS services (EC2, RDS, S3) to support full-stack development and infrastructure tasks. 
+
+• Championed code quality through unit testing, peer reviews, and continuous improvement of development workflows.  
+**Senior Software Engineer** 
+
+SmugMug/Flickr 
+
+February 2011 to June 2022 
+
+• Flickr/SmugMug, Remote from Oregon – (Feb 2019 \- July 2021\) 
+
+As the Lead Engineer, spearheaded the development of a system to detect, moderate, report, and archive child abuse-related media (CSAM) for Flickr.com. Utilized Safer.io's services by integrating them into our upload flow through containers, SQS, and AWS Lambda. Improved the legacy moderation system, a PHP application with MySQL, to effectively moderate the new content. Directly utilized NECMEC's APIs for reporting and replaced them with a Safer.io module when it became available. For archiving, reused technology from Flickr, utilizing an AWS S3 secure bucket. 
+
+Showcased the ability to work with sensitive and crucial topics, to handle complex and difficult projects with a high level of responsibility and attention to detail, and of handling effective communication with third party providers and new coworkers from different areas. 
+
+• SmugMug, Mountain View, CA and Remote – (Feb 2011 \- Jun 2022\) 
+
+As a Lead Full Stack Engineer: developed a microservice for video content rendering using AWS transcoding technology, contributed to the design of a modern digital asset architecture, enabled buying and selling, as well as pricing in foreign currencies. Integrated Intercom’s REST API and Amazon payments web services for e-commerce. Led the technical modernization of the tax system, executed several price increases on renewals and subscriptions, and completed a half-implemented Media Picker. 
+
+Capable of working with both legacy and modern codebases and successfully migrating operations from private data centers to the cloud. Understands the importance of aligning technology with business goals and needs and goes beyond simply writing code. 
+
+**Senior Software Engineer** 
+
+Yahoo\! Inc. 
+
+December 2000 to December 2010 
+
+• Yahoo\! Localization Platform, Sunnyvale, CA – (Jun 2009 \- Dec 2010\) 
+
+Scrum Master and tech lead on the Yahoo Localization (L10N) platform team building and maintaining a scalable and highly available application using Java, PHP, Perl, DHTML, and Oracle in a web-service oriented architecture. Platform used by ALL of Yahoo\! Global products. 
+
+Skills: PHP, Perl, Project Management, Localization (l10n), Internationalization (i18n), Web-Service Oriented Architecture, and Shell Scripting Automation. 
+
+• Yahoo\! International Tiger Team, Sunnyvale, CA – (Aug 2005 \- May 2009\) 
+
+As a founding member of Yahoo's International Tiger Team, actively facilitated the internationalization and localization of multiple products. The team's primary objective was to actively support other teams in making their products globally accessible and relevant. 
+
+As a Lead Engineer, played a key role in the globalization of multiple verticals, including Yahoo\! Buzz, Yahoo\! Maps, the next-generation web search "Glue," Yahoo News Search, a customized version of Internet Explorer 7, Yahoo\! 360, and a Firefox plug-in to drag and drop files into Yahoo Photos. 
+
+Skills: PHP, Perl, JavaScript, MySQL, Memcached, Yahoo\! CoreID Web Service, Y.U.I. Libraries, and Firefox Plugin Development. 
+
+• Yahoo\! Inc. Yahoo\! Latin America, Coral Gables, FL – (Dec 2000 \- Jul 2005\) 
+
+Redesigned various Yahoo\! Latin American media verticals (news, sports, entertainment, etc..) 
+
+Worked with the marketing and product teams on promo sites, floating ads, state-of-the-art home page takeovers, and content integration deals. 
+
+Skills: PERL, XML, CMS, MySQL, JavaScript, and shell scripting automation. 
+
+**Senior Internet Programmer** 
+
+Mindsare Design\-San Jose, CA 
+
+November 1999 to November 2000  
+• Lead Engineer on the PostMaster General development and support team. 
+
+• System administrator for the Hosting Services Department. 
+
+• Web developer on: Philips Semiconductors intranet application, the Recycling and Composting Program of the County of San Mateo, and the FORTEL internet application. 
+
+Skills: Web Development, Programming, Debugging, Software Development, Cascading Style Sheets (CSS), HTML, SQL, Engineering, Large Scale Systems, Software Architecture, Perl, MySQL, Web Applications, OOP, Apache. 
+
+**Co-Founder** 
+
+Imagine SAS\-Bogota, Colombia 
+
+January 1996 to November 1999 
+
+Co-Founder of one of the first Internet companies in Colombia (imagine.com.co). 
+
+Skills: Web Development · Programming, Debugging, Software Development, Cascading Style Sheets (CSS), HTML, SQL, Entrepreneurship, Engineering, Technology Start-up, Software Architecture, Perl, Pascal, Web Applications, OOP, Apache. 
+
+Education 
+
+**Bachelor's degree in Systems Enginner , Software** 
+
+Universidad Autonoma de Manizales-Manizales, Caldas 
+
+January 1985 to December 1992 
+
+Skills 
+
+• OOP 
+
+• Entrepreneurship 
+
+• Git 
+
+• SQL 
+
+• Technology Start-up 
+
+• Large Scale Systems 
+
+• MySQL 
+
+• Node.js 
+
+• Linux 
+
+• Engineering 
+
+• Internationalization 
+
+• Content Management Systems (CMS) 
+
+• Currency 
+
+• XML 
+
+• I18N 
+
+• PHP (10+ years) 
+
+• Information Technology 
+
+• REST APIs 
+
+• AWS (7 years) 
+
+• Software  
+• JavaScript (10+ years) 
+
+• E-commerce 
+
+• Laravel (1 year) 
+
+• Software development 
+
+• Agile 
+
+• L10N 
+
+Languages 
+
+• Spanish \- Fluent 
+
+• English \- Fluent 
+
+Links 
+
+linkedin.com/in/jaramillojulian 
+
+Certifications and Licenses 
+
+**Advanced Laravel** 
+
+May 2025 to Present 
+
+Skills: Laravel · PHP · Object-Oriented Programming (OOP) · Model-View-Controller (MVC) LinkedIn Learning Certificate \- 3h 14m 
+
+**Laravel Essential Training** 
+
+May 2025 to Present 
+
+Skills: Laravel · PHP · Model-View-Controller (MVC) · Object-Oriented Programming (OOP) LinkedIn Learning Certificate of Completion \- 3h 14m 
+
+**Learning Amazon SageMaker (2019)** 
+
+June 2023 to Present 
+
+Skills: AWS SageMaker · Machine Learning · Artificial Intelligence (AI) LinkedIn Learning Certificate of Completion \- 1h 11m 
+
+**Transitioning into Machine Learning Engineering** 
+
+February 2023 to Present 
+
+Skills: Machine Learning · Artificial Intelligence (AI) 
+
+LinkedIn Learning Certificate of Completion 
+
+**Web Security: OAuth and OpenID Connect** 
+
+February 2023 to Present 
+
+Skills: Secure Authentication 
+
+LinkedIn Learning Certificate of Completion \- 1h 44m  
+**Advanced Node.js** 
+
+September 2022 to Present 
+
+Skills: Node.js · Object-Oriented Programming (OOP) 
+
+LinkedIn Learning Certificate of Completion \- 2h 3m 
+
+**Advanced Node.js: Scaling Applications** 
+
+September 2022 to Present 
+
+Skills: Node.js · Object-Oriented Programming (OOP) · Large Scale Systems LinkedIn Learning Certificate of Completion \- 1h 14m 
+
+**Node.js: Microservices** 
+
+August 2022 to Present 
+
+Skills: Node.js · Programming · Microservices 
+
+LinkedIn Learning Certificate of Completion \- 2h 14m 
+
+**Serverless and Microservices for AWS** 
+
+July 2022 to Present 
+
+Skills: Amazon Web Services (AWS) · Microservices · Serverless Computing · Node.js LinkedIn Learning Certificate of Completion \- 1h 40m
